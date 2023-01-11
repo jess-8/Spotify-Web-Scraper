@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from tabulate import tabulate
 import pandas as pd
 import matplotlib.pyplot as plt
 
